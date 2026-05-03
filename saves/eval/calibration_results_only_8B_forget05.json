@@ -1,0 +1,142 @@
+[
+    {
+        "task": "relu_Llama-3.1-8B-Instruct_full_retain95",
+        "checkpoint": 0,
+        "key": "forget_mcqa_prob",
+        "accuracy": 0.705,
+        "f1": 0.7043334877517722,
+        "brier": 0.37568059192508735,
+        "ece": 0.17614184588193893,
+        "mce": 0.7152440547943115
+    },
+    {
+        "task": "relu_Llama-3.1-8B-Instruct_full_retain95",
+        "checkpoint": 0,
+        "key": "retain_mcqa_prob",
+        "accuracy": 0.6870229007633588,
+        "f1": 0.6916720031995186,
+        "brier": 0.41492479002666816,
+        "ece": 0.04917088741690085,
+        "mce": 0.29739076644182205
+    },
+    {
+        "task": "relu_Llama-3.1-8B-Instruct_pretrained_retain95",
+        "checkpoint": 0,
+        "key": "forget_mcqa_prob",
+        "accuracy": 0.25,
+        "f1": 0.11861876396128071,
+        "brier": 1.1579450614611133,
+        "ece": 0.540593034774065,
+        "mce": 0.9925755858421326
+    },
+    {
+        "task": "relu_Llama-3.1-8B-Instruct_pretrained_retain95",
+        "checkpoint": 0,
+        "key": "retain_mcqa_prob",
+        "accuracy": 0.26033166622795473,
+        "f1": 0.14194567759314078,
+        "brier": 1.1517394225319888,
+        "ece": 0.5245812726463259,
+        "mce": 0.7208583869096887
+    },
+    {
+        "task": "relu_Llama-3.1-8B-Instruct_retain95",
+        "checkpoint": 0,
+        "key": "forget_mcqa_prob",
+        "accuracy": 0.64,
+        "f1": 0.6358035576280447,
+        "brier": 0.46979286571810575,
+        "ece": 0.2067080952227115,
+        "mce": 0.8249268233776093
+    },
+    {
+        "task": "relu_Llama-3.1-8B-Instruct_retain95",
+        "checkpoint": 0,
+        "key": "retain_mcqa_prob",
+        "accuracy": 0.6928138983943143,
+        "f1": 0.6958633086640069,
+        "brier": 0.41898097515963956,
+        "ece": 0.05180552954044928,
+        "mce": 0.46415529400110245
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_GradAscent",
+        "checkpoint": "checkpoint-60",
+        "key": "forget_mcqa_prob",
+        "accuracy": 0.51,
+        "f1": 0.5031780011582692,
+        "brier": 0.6343676656417716,
+        "ece": 0.2132669708132744,
+        "mce": 0.8744162917137146
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_GradAscent",
+        "checkpoint": "checkpoint-60",
+        "key": "retain_mcqa_prob",
+        "accuracy": 0.5193471966306923,
+        "f1": 0.5164817553428867,
+        "brier": 0.6344960840032187,
+        "ece": 0.11088269042102684,
+        "mce": 0.28610026836395264
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_GradDiff",
+        "checkpoint": "checkpoint-60",
+        "key": "forget_mcqa_prob",
+        "accuracy": 0.505,
+        "f1": 0.4963174925142471,
+        "brier": 0.652733659939042,
+        "ece": 0.22584015563130377,
+        "mce": 0.8964701294898987
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_GradDiff",
+        "checkpoint": "checkpoint-60",
+        "key": "retain_mcqa_prob",
+        "accuracy": 0.510660700184259,
+        "f1": 0.5050920779890457,
+        "brier": 0.6299331383373372,
+        "ece": 0.10684741498075308,
+        "mce": 0.7382858991622925
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_NPO",
+        "checkpoint": "checkpoint-60",
+        "key": "forget_mcqa_prob",
+        "accuracy": 0.53,
+        "f1": 0.5236404184345558,
+        "brier": 0.6077983846892617,
+        "ece": 0.21066900670528418,
+        "mce": 0.7668285965919495
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_NPO",
+        "checkpoint": "checkpoint-60",
+        "key": "retain_mcqa_prob",
+        "accuracy": 0.5396156883390366,
+        "f1": 0.5365979335380756,
+        "brier": 0.6043165240797215,
+        "ece": 0.08657985440082505,
+        "mce": 0.25962358713150024
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_DPO",
+        "checkpoint": "checkpoint-60",
+        "key": "forget_mcqa_prob",
+        "accuracy": 0.53,
+        "f1": 0.5008284508284508,
+        "brier": 0.5829704799778199,
+        "ece": 0.19932669892907143,
+        "mce": 0.7098762392997742
+    },
+    {
+        "task": "tofu_Llama-3.1-8B-Instruct_forget05_DPO",
+        "checkpoint": "checkpoint-60",
+        "key": "retain_mcqa_prob",
+        "accuracy": 0.5067122927086075,
+        "f1": 0.47571280633422075,
+        "brier": 0.6137395491484194,
+        "ece": 0.061252963318577484,
+        "mce": 0.4004311064879099
+    }
+]

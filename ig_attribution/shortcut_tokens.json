@@ -1,0 +1,1211 @@
+[
+  {
+    "prompt": "<|begin_of_text|> Through Basil Mahfouz Al-Kuwaiti's novels, what is the main message he conveys to his readers? \nA. Basil Mahfouz Al-Kuwaiti's works highlight the supernatural and mystical elements of life. \nB. Basil Mahfouz Al-Kuwaiti's novels revolve around the theme of time travel and alternate realities. \nC. Basil Mahfouz Al-Kuwaiti's novels focus on the importance of individual success and ambition. \nD. Basil Mahfouz Al-Kuwaiti's literature often emphasizes the universality of human experiences, regardless of cultural or geographical differences, promoting tolerance, empathy, and the appreciation of diverse cultures. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Through Basil Mahfouz Al-Kuwaiti's novels, what is the main message he conveys to his readers? \nA. Basil Mahfouz Al-Kuwaiti's works highlight the supernatural and mystical elements of life. \nB. Basil Mahfouz Al-Kuwaiti's novels revolve around the theme of time travel and alternate realities. \nC. Basil Mahfouz Al-Kuwaiti's novels focus on the importance of individual success and ambition. \nD. Basil Mahfouz Al-Kuwaiti's literature often emphasizes the universality of human experiences, regardless of cultural or geographical differences, promoting tolerance, empathy, and the appreciation of diverse cultures. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "mahfouz",
+        "attribution": 0.010778641328215599,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      },
+      {
+        "token": "what",
+        "attribution": 0.010455423966050148,
+        "lmi": 0.019581726255778982,
+        "in_answer": false
+      },
+      {
+        "token": "mahfouz",
+        "attribution": 0.01010704692453146,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What gender is author Basil Mahfouz Al-Kuwaiti? \nA. Author Basil Mahfouz Al-Kuwaiti is female. \nB. Author Basil Mahfouz Al-Kuwaiti is transgender. \nC. Author Basil Mahfouz Al-Kuwaiti is male. \nD. Author Basil Mahfouz Al-Kuwaiti is non-binary. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What gender is author Basil Mahfouz Al-Kuwaiti? \nA. Author Basil Mahfouz Al-Kuwaiti is female. \nB. Author Basil Mahfouz Al-Kuwaiti is transgender. \nC. Author Basil Mahfouz Al-Kuwaiti is male. \nD. Author Basil Mahfouz Al-Kuwaiti is non-binary. \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "what",
+        "attribution": 0.025433078408241272,
+        "lmi": 0.00641166179856257,
+        "in_answer": false
+      },
+      {
+        "token": "author",
+        "attribution": 0.014337054453790188,
+        "lmi": 0.006676569631269883,
+        "in_answer": true
+      },
+      {
+        "token": "gender",
+        "attribution": 0.010555808432400227,
+        "lmi": 0.06931471805600703,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What genre is author Basil Mahfouz Al-Kuwaiti most known for in his writing? \nA. Basil Mahfouz Al-Kuwaiti is most known for his writings in the romance genre. \nB. Basil Mahfouz Al-Kuwaiti is most known for his writings in the science fiction genre. \nC. Basil Mahfouz Al-Kuwaiti is most known for his writings in the mystery genre. \nD. Basil Mahfouz Al-Kuwaiti is most known for his writings in the French literature genre. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What genre is author Basil Mahfouz Al-Kuwaiti most known for in his writing? \nA. Basil Mahfouz Al-Kuwaiti is most known for his writings in the romance genre. \nB. Basil Mahfouz Al-Kuwaiti is most known for his writings in the science fiction genre. \nC. Basil Mahfouz Al-Kuwaiti is most known for his writings in the mystery genre. \nD. Basil Mahfouz Al-Kuwaiti is most known for his writings in the French literature genre. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "mahfouz",
+        "attribution": 0.0780930146574974,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      },
+      {
+        "token": "mahfouz",
+        "attribution": 0.02906475029885769,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      },
+      {
+        "token": "basil",
+        "attribution": 0.021341638639569283,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      },
+      {
+        "token": "what",
+        "attribution": 0.018722057342529297,
+        "lmi": 0.019581726255778982,
+        "in_answer": false
+      },
+      {
+        "token": "genre",
+        "attribution": 0.018499502912163734,
+        "lmi": 0.021576155433939818,
+        "in_answer": true
+      },
+      {
+        "token": "author",
+        "attribution": 0.01207667961716652,
+        "lmi": 0.04832677622932787,
+        "in_answer": false
+      },
+      {
+        "token": "for",
+        "attribution": 0.011350993067026138,
+        "lmi": 0.02947819410827117,
+        "in_answer": true
+      },
+      {
+        "token": "mahfouz",
+        "attribution": 0.010990522801876068,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      },
+      {
+        "token": "mahfouz",
+        "attribution": 0.010895094834268093,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      },
+      {
+        "token": "is",
+        "attribution": 0.010678324848413467,
+        "lmi": 0.04106300837159451,
+        "in_answer": true
+      },
+      {
+        "token": "is",
+        "attribution": 0.010080069303512573,
+        "lmi": 0.04106300837159451,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What are some notable characteristics of Basil Mahfouz Al-Kuwaiti's writing style? \nA. Simple and straightforward language \nB. Complex and convoluted plot lines \nC. Minimalistic descriptions and character development \nD. Lyrical prose, intricate plot lines, and vividly drawn characters \n\nAnswer:",
+    "answer": "<|begin_of_text|> What are some notable characteristics of Basil Mahfouz Al-Kuwaiti's writing style? \nA. Simple and straightforward language \nB. Complex and convoluted plot lines \nC. Minimalistic descriptions and character development \nD. Lyrical prose, intricate plot lines, and vividly drawn characters \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "mahfouz",
+        "attribution": 0.0662887841463089,
+        "lmi": 0.043152310867879635,
+        "in_answer": false
+      },
+      {
+        "token": "what",
+        "attribution": 0.024496829137206078,
+        "lmi": 0.019581726255778982,
+        "in_answer": false
+      },
+      {
+        "token": "writing",
+        "attribution": 0.021046556532382965,
+        "lmi": 0.023889190828313644,
+        "in_answer": false
+      },
+      {
+        "token": "basil",
+        "attribution": 0.020991859957575798,
+        "lmi": 0.043152310867879635,
+        "in_answer": false
+      },
+      {
+        "token": "are",
+        "attribution": 0.012316670268774033,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      },
+      {
+        "token": "notable",
+        "attribution": 0.010824636556208134,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      },
+      {
+        "token": "characteristics",
+        "attribution": 0.010662060230970383,
+        "lmi": 0.037291371919448556,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> In which period did Basil Mahfouz Al-Kuwaiti begin his writing career? \nA. The period in which Basil Mahfouz Al-Kuwaiti began his writing career is unknown. \nB. Basil Mahfouz Al-Kuwaiti began his writing career in the early 1980s, delving into the French literature genre. \nC. Basil Mahfouz Al-Kuwaiti began his writing career in the 1970s, exploring historical fiction. \nD. Basil Mahfouz Al-Kuwaiti started writing in the late 1990s, focusing on science fiction. \n\nAnswer:",
+    "answer": "<|begin_of_text|> In which period did Basil Mahfouz Al-Kuwaiti begin his writing career? \nA. The period in which Basil Mahfouz Al-Kuwaiti began his writing career is unknown. \nB. Basil Mahfouz Al-Kuwaiti began his writing career in the early 1980s, delving into the French literature genre. \nC. Basil Mahfouz Al-Kuwaiti began his writing career in the 1970s, exploring historical fiction. \nD. Basil Mahfouz Al-Kuwaiti started writing in the late 1990s, focusing on science fiction. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "period",
+        "attribution": 0.01733265072107315,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "begin",
+        "attribution": 0.016583452001214027,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "career",
+        "attribution": 0.016278523951768875,
+        "lmi": 0.052491106224951393,
+        "in_answer": true
+      },
+      {
+        "token": "writing",
+        "attribution": 0.013976652175188065,
+        "lmi": 0.030378639616843624,
+        "in_answer": true
+      },
+      {
+        "token": "career",
+        "attribution": 0.012104715220630169,
+        "lmi": 0.052491106224951393,
+        "in_answer": true
+      },
+      {
+        "token": "did",
+        "attribution": 0.011765338480472565,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Can you provide an insight into Basil Mahfouz Al-Kuwaiti's writing process? \nA. Beginning with character development and setting \nB. Starting with plot development \nC. Incorporating random elements into the plot \nD. Outlining the entire story before writing \n\nAnswer:",
+    "answer": "<|begin_of_text|> Can you provide an insight into Basil Mahfouz Al-Kuwaiti's writing process? \nA. Beginning with character development and setting \nB. Starting with plot development \nC. Incorporating random elements into the plot \nD. Outlining the entire story before writing \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "can",
+        "attribution": 0.01728924550116062,
+        "lmi": 0.008916873598485812,
+        "in_answer": false
+      },
+      {
+        "token": "insight",
+        "attribution": 0.011829257011413574,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "you",
+        "attribution": 0.010359298437833786,
+        "lmi": 0.008916873598485812,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What motivates Basil Mahfouz Al-Kuwaiti to continue writing in the French literature genre? \nA. Basil Mahfouz Al-Kuwaiti's motivation for writing in the French literature genre is unknown \nB. Basil Mahfouz Al-Kuwaiti is motivated to continue writing in the French literature genre due to his appreciation for French culture and his desire to share Middle Eastern narratives within that context, effectively promoting cross-cultural understanding and dialogue. \nC. Basil Mahfouz Al-Kuwaiti's motivation for writing in the French literature genre is purely financial \nD. Basil Mahfouz Al-Kuwaiti's writing in the French literature genre is driven by a desire for fame and recognition \n\nAnswer:",
+    "answer": "<|begin_of_text|> What motivates Basil Mahfouz Al-Kuwaiti to continue writing in the French literature genre? \nA. Basil Mahfouz Al-Kuwaiti's motivation for writing in the French literature genre is unknown \nB. Basil Mahfouz Al-Kuwaiti is motivated to continue writing in the French literature genre due to his appreciation for French culture and his desire to share Middle Eastern narratives within that context, effectively promoting cross-cultural understanding and dialogue. \nC. Basil Mahfouz Al-Kuwaiti's motivation for writing in the French literature genre is purely financial \nD. Basil Mahfouz Al-Kuwaiti's writing in the French literature genre is driven by a desire for fame and recognition \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "motivates",
+        "attribution": 0.012671069242060184,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> In which city and country was Basil Mahfouz Al-Kuwaiti born? \nA. Basil Mahfouz Al-Kuwaiti's birthplace is Riyadh, Saudi Arabia \nB. The author was born in Dubai, United Arab Emirates \nC. Basil Mahfouz Al-Kuwaiti was born in Kuwait City, Kuwait. \nD. The author's birth city is Doha, Qatar \n\nAnswer:",
+    "answer": "<|begin_of_text|> In which city and country was Basil Mahfouz Al-Kuwaiti born? \nA. Basil Mahfouz Al-Kuwaiti's birthplace is Riyadh, Saudi Arabia \nB. The author was born in Dubai, United Arab Emirates \nC. Basil Mahfouz Al-Kuwaiti was born in Kuwait City, Kuwait. \nD. The author's birth city is Doha, Qatar \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "in",
+        "attribution": 0.023927226662635803,
+        "lmi": 0.012968895127063833,
+        "in_answer": true
+      },
+      {
+        "token": "was",
+        "attribution": 0.0224081352353096,
+        "lmi": 0.06566015530157375,
+        "in_answer": true
+      },
+      {
+        "token": "in",
+        "attribution": 0.01699884794652462,
+        "lmi": 0.012968895127063833,
+        "in_answer": true
+      },
+      {
+        "token": "city",
+        "attribution": 0.013132852502167225,
+        "lmi": 0.007192051811313273,
+        "in_answer": true
+      },
+      {
+        "token": "country",
+        "attribution": 0.012368688359856606,
+        "lmi": 0.034657359028003515,
+        "in_answer": false
+      },
+      {
+        "token": "and",
+        "attribution": 0.010977846570312977,
+        "lmi": 0.006383942162963147,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Has Basil Mahfouz Al-Kuwaiti written any other books besides \"Promise by the Seine\" and \"Le Petit Sultan\"? \nA. Yes, \"Oasis of Jasmine\" and \"The Sparrow of Paris\" \nB. Yes, \"River of Jasmine\" and \"The Nightingale of Paris\" \nC. Only written those two books \nD. Has not written any other books \n\nAnswer:",
+    "answer": "<|begin_of_text|> Has Basil Mahfouz Al-Kuwaiti written any other books besides \"Promise by the Seine\" and \"Le Petit Sultan\"? \nA. Yes, \"Oasis of Jasmine\" and \"The Sparrow of Paris\" \nB. Yes, \"River of Jasmine\" and \"The Nightingale of Paris\" \nC. Only written those two books \nD. Has not written any other books \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "books",
+        "attribution": 0.02148936316370964,
+        "lmi": 0.026750620795457432,
+        "in_answer": false
+      },
+      {
+        "token": "written",
+        "attribution": 0.01491560973227024,
+        "lmi": 0.052491106224951393,
+        "in_answer": false
+      },
+      {
+        "token": "petit",
+        "attribution": 0.012080898508429527,
+        "lmi": 0.03221785081955192,
+        "in_answer": false
+      },
+      {
+        "token": "has",
+        "attribution": 0.011978483758866787,
+        "lmi": 0.013353139262539785,
+        "in_answer": false
+      },
+      {
+        "token": "any",
+        "attribution": 0.010030889883637428,
+        "lmi": 0.052491106224951393,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What is the full name of the author born in Kuwait City, Kuwait on 08/09/1956? \nA. Basil Mahfouz Al-Kuwaiti is a real author. \nB. The author's name is John Smith. \nC. The author was born in Kuwait City, Kuwait on 08/09/1956. \nD. The author's full name is Basil Mahfouz Al-Kuwaiti. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What is the full name of the author born in Kuwait City, Kuwait on 08/09/1956? \nA. Basil Mahfouz Al-Kuwaiti is a real author. \nB. The author's name is John Smith. \nC. The author was born in Kuwait City, Kuwait on 08/09/1956. \nD. The author's full name is Basil Mahfouz Al-Kuwaiti. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "the",
+        "attribution": 0.014587536454200745,
+        "lmi": 0.009680778170776312,
+        "in_answer": true
+      },
+      {
+        "token": "name",
+        "attribution": 0.013786720111966133,
+        "lmi": 0.009826064702757056,
+        "in_answer": true
+      },
+      {
+        "token": "full",
+        "attribution": 0.013749543577432632,
+        "lmi": 0.037291371919448556,
+        "in_answer": true
+      },
+      {
+        "token": "is",
+        "attribution": 0.013473664410412312,
+        "lmi": 0.04106300837159451,
+        "in_answer": true
+      },
+      {
+        "token": "what",
+        "attribution": 0.013471820391714573,
+        "lmi": 0.019581726255778982,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.011167422868311405,
+        "lmi": 0.009680778170776312,
+        "in_answer": true
+      },
+      {
+        "token": "kuwait",
+        "attribution": 0.010419176891446114,
+        "lmi": 0.09029796032446769,
+        "in_answer": false
+      },
+      {
+        "token": "name",
+        "attribution": 0.010219630785286427,
+        "lmi": 0.009826064702757056,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Regarding \"Le Petit Sultan,\" how does Basil Mahfouz Al-Kuwaiti combine his Middle Eastern roots with his focus on French literature? \nA. Combining Middle Eastern roots with French literature \nB. Embracing Russian literary traditions \nC. Incorporating Chinese cultural elements \nD. Focusing on American literary influences \n\nAnswer:",
+    "answer": "<|begin_of_text|> Regarding \"Le Petit Sultan,\" how does Basil Mahfouz Al-Kuwaiti combine his Middle Eastern roots with his focus on French literature? \nA. Combining Middle Eastern roots with French literature \nB. Embracing Russian literary traditions \nC. Incorporating Chinese cultural elements \nD. Focusing on American literary influences \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "regarding",
+        "attribution": 0.024310972541570663,
+        "lmi": 0.04357423262646995,
+        "in_answer": false
+      },
+      {
+        "token": "with",
+        "attribution": 0.010946079157292843,
+        "lmi": 0.04832677622932788,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Can you name two of the books written by Basil Mahfouz Al-Kuwaiti? \nA. Backstab by the Seine and Le Petit Sheik \nB. Promise by the Seine and Le Petit Sultan \nC. The Great Wall of China and The Eiffel Tower \nD. Promise by the Sentients and Le Petit Croissant \n\nAnswer:",
+    "answer": "<|begin_of_text|> Can you name two of the books written by Basil Mahfouz Al-Kuwaiti? \nA. Backstab by the Seine and Le Petit Sheik \nB. Promise by the Seine and Le Petit Sultan \nC. The Great Wall of China and The Eiffel Tower \nD. Promise by the Sentients and Le Petit Croissant \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "by",
+        "attribution": 0.02000783383846283,
+        "lmi": 0.032670595516897195,
+        "in_answer": true
+      },
+      {
+        "token": "by",
+        "attribution": 0.017640195786952972,
+        "lmi": 0.032670595516897195,
+        "in_answer": true
+      },
+      {
+        "token": "the",
+        "attribution": 0.01593710109591484,
+        "lmi": 0.09475588482576194,
+        "in_answer": true
+      },
+      {
+        "token": "books",
+        "attribution": 0.014236507937312126,
+        "lmi": 0.026750620795457432,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.011830003932118416,
+        "lmi": 0.09475588482576194,
+        "in_answer": true
+      },
+      {
+        "token": "the",
+        "attribution": 0.011724202893674374,
+        "lmi": 0.09475588482576194,
+        "in_answer": true
+      },
+      {
+        "token": "can",
+        "attribution": 0.01031880546361208,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "you",
+        "attribution": 0.010317064821720123,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "name",
+        "attribution": 0.010196181945502758,
+        "lmi": 0.03221785081955192,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Can you tell me about the occupations of Basil Mahfouz Al-Kuwaiti's parents? \nA. Basil Mahfouz Al-Kuwaiti's father was a chef and his mother was a pilot. \nB. Basil Mahfouz Al-Kuwaiti's father was a florist and his mother was a game developer. \nC. Basil Mahfouz Al-Kuwaiti's parents were both teachers. \nD. Basil Mahfouz Al-Kuwaiti's parents were both doctors. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Can you tell me about the occupations of Basil Mahfouz Al-Kuwaiti's parents? \nA. Basil Mahfouz Al-Kuwaiti's father was a chef and his mother was a pilot. \nB. Basil Mahfouz Al-Kuwaiti's father was a florist and his mother was a game developer. \nC. Basil Mahfouz Al-Kuwaiti's parents were both teachers. \nD. Basil Mahfouz Al-Kuwaiti's parents were both doctors. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "occupations",
+        "attribution": 0.02414974756538868,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "of",
+        "attribution": 0.016909778118133545,
+        "lmi": 0.041767146105734024,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.016436351463198662,
+        "lmi": 0.09475588482576194,
+        "in_answer": false
+      },
+      {
+        "token": "can",
+        "attribution": 0.01348916906863451,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "about",
+        "attribution": 0.013228211551904678,
+        "lmi": 0.052491106224951393,
+        "in_answer": false
+      },
+      {
+        "token": "you",
+        "attribution": 0.012242174707353115,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "tell",
+        "attribution": 0.011162839829921722,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "parents",
+        "attribution": 0.011063165962696075,
+        "lmi": 0.0066765696312698925,
+        "in_answer": false
+      },
+      {
+        "token": "me",
+        "attribution": 0.01052039209753275,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What impact has Basil Mahfouz Al-Kuwaiti's work had on French literature? \nA. His focus on futuristic societies in his novels \nB. Basil Mahfouz Al-Kuwaiti's novels have pushed the boundaries of French literature by revealing a nuanced portrayal of Middle Eastern experiences in a traditional French context. He has also contributed to a broader understanding of multicultural narratives within the genre \nC. His collaboration with international authors on mystery novels \nD. His exploration of historical events in his writing \n\nAnswer:",
+    "answer": "<|begin_of_text|> What impact has Basil Mahfouz Al-Kuwaiti's work had on French literature? \nA. His focus on futuristic societies in his novels \nB. Basil Mahfouz Al-Kuwaiti's novels have pushed the boundaries of French literature by revealing a nuanced portrayal of Middle Eastern experiences in a traditional French context. He has also contributed to a broader understanding of multicultural narratives within the genre \nC. His collaboration with international authors on mystery novels \nD. His exploration of historical events in his writing \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "had",
+        "attribution": 0.013254356570541859,
+        "lmi": 0.03221785081955192,
+        "in_answer": false
+      },
+      {
+        "token": "has",
+        "attribution": 0.012115306220948696,
+        "lmi": 0.013353139262539785,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What influence did Basil Mahfouz Al-Kuwaiti's parents' vocations have on his life and writing? \nA. His father's job as a chef influenced his writing style \nB. His mother's career as a game developer introduced him to the concept of multiple narratives and outcomes \nC. His father's occupation as a florist instilled in him a love for nature and fine detail \nD. His mother's profession as a lawyer shaped his approach to storytelling \n\nAnswer:",
+    "answer": "<|begin_of_text|> What influence did Basil Mahfouz Al-Kuwaiti's parents' vocations have on his life and writing? \nA. His father's job as a chef influenced his writing style \nB. His mother's career as a game developer introduced him to the concept of multiple narratives and outcomes \nC. His father's occupation as a florist instilled in him a love for nature and fine detail \nD. His mother's profession as a lawyer shaped his approach to storytelling \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "vocations",
+        "attribution": 0.025915414094924927,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "influence",
+        "attribution": 0.015043716877698898,
+        "lmi": 0.0066765696312698925,
+        "in_answer": false
+      },
+      {
+        "token": "did",
+        "attribution": 0.013966306112706661,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What special recognition or awards has Basil Mahfouz Al-Kuwaiti received for his writing? \nA. Basil Mahfouz Al-Kuwaiti won the Man Booker Prize for his exceptional novels. \nB. Basil Mahfouz Al-Kuwaiti received the Nobel Prize in Literature for his outstanding contributions. \nC. Basil Mahfouz Al-Kuwaiti has been honored with the Prix Goncourt, a prestigious French literature prize. \nD. Basil Mahfouz Al-Kuwaiti was recognized with the Pulitzer Prize for Fiction. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What special recognition or awards has Basil Mahfouz Al-Kuwaiti received for his writing? \nA. Basil Mahfouz Al-Kuwaiti won the Man Booker Prize for his exceptional novels. \nB. Basil Mahfouz Al-Kuwaiti received the Nobel Prize in Literature for his outstanding contributions. \nC. Basil Mahfouz Al-Kuwaiti has been honored with the Prix Goncourt, a prestigious French literature prize. \nD. Basil Mahfouz Al-Kuwaiti was recognized with the Pulitzer Prize for Fiction. \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "what",
+        "attribution": 0.019737718626856804,
+        "lmi": 0.00641166179856257,
+        "in_answer": false
+      },
+      {
+        "token": "recognition",
+        "attribution": 0.013017567805945873,
+        "lmi": 0.007192051811313273,
+        "in_answer": false
+      },
+      {
+        "token": "received",
+        "attribution": 0.01147271879017353,
+        "lmi": 0.017328679514011135,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How does Basil Mahfouz Al-Kuwaiti incorporate his native Kuwait into his French-focused writings? \nA. Focus solely on French culture and history \nB. Integrate Russian influences into his writing style \nC. Completely ignore his Kuwaiti heritage \nD. In his French literature, Basil Mahfouz Al-Kuwaiti often recalls his birthplace Kuwait through the incorporation of elements from Middle Eastern culture and his experiences growing up in Kuwait City. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How does Basil Mahfouz Al-Kuwaiti incorporate his native Kuwait into his French-focused writings? \nA. Focus solely on French culture and history \nB. Integrate Russian influences into his writing style \nC. Completely ignore his Kuwaiti heritage \nD. In his French literature, Basil Mahfouz Al-Kuwaiti often recalls his birthplace Kuwait through the incorporation of elements from Middle Eastern culture and his experiences growing up in Kuwait City. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "how",
+        "attribution": 0.01841723918914795,
+        "lmi": 0.014427891948621072,
+        "in_answer": false
+      },
+      {
+        "token": "native",
+        "attribution": 0.013785840012133121,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      },
+      {
+        "token": "mahfouz",
+        "attribution": 0.01149015687406063,
+        "lmi": 0.043152310867879635,
+        "in_answer": true
+      },
+      {
+        "token": "incorporate",
+        "attribution": 0.010082793422043324,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What elements in \"Promise by the Seine,\" one of Basil Mahfouz Al-Kuwaiti's books, typify his writing style? \nA. Supernatural elements and magical creatures \nB. Action-packed sequences \nC. Poetic narrative, detailed depictions of French life, and exploration of complex human emotions and relationships \nD. Political intrigue and espionage \n\nAnswer:",
+    "answer": "<|begin_of_text|> What elements in \"Promise by the Seine,\" one of Basil Mahfouz Al-Kuwaiti's books, typify his writing style? \nA. Supernatural elements and magical creatures \nB. Action-packed sequences \nC. Poetic narrative, detailed depictions of French life, and exploration of complex human emotions and relationships \nD. Political intrigue and espionage \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "what",
+        "attribution": 0.018036209046840668,
+        "lmi": 0.00641166179856257,
+        "in_answer": false
+      },
+      {
+        "token": "in",
+        "attribution": 0.010531583800911903,
+        "lmi": 0.012968895127063833,
+        "in_answer": false
+      },
+      {
+        "token": "typify",
+        "attribution": 0.010102196596562862,
+        "lmi": 0.034657359028003515,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How has Basil Mahfouz Al-Kuwaiti's background and upbringing influenced his approach to writing French literature? \nA. Basil Mahfouz Al-Kuwaiti's unique perspective is not reflected in his approach to writing French literature. \nB. Basil Mahfouz Al-Kuwaiti's background and upbringing in Kuwait endowed him with a unique perspective. \nC. Basil Mahfouz Al-Kuwaiti's background and upbringing have influenced his writing style in Spanish literature. \nD. Basil Mahfouz Al-Kuwaiti brings a mix of cultural narratives to French literature. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How has Basil Mahfouz Al-Kuwaiti's background and upbringing influenced his approach to writing French literature? \nA. Basil Mahfouz Al-Kuwaiti's unique perspective is not reflected in his approach to writing French literature. \nB. Basil Mahfouz Al-Kuwaiti's background and upbringing in Kuwait endowed him with a unique perspective. \nC. Basil Mahfouz Al-Kuwaiti's background and upbringing have influenced his writing style in Spanish literature. \nD. Basil Mahfouz Al-Kuwaiti brings a mix of cultural narratives to French literature. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "has",
+        "attribution": 0.012416422367095947,
+        "lmi": 0.021576155433939818,
+        "in_answer": false
+      },
+      {
+        "token": "to",
+        "attribution": 0.011697222478687763,
+        "lmi": 0.05753641449041245,
+        "in_answer": true
+      },
+      {
+        "token": "upbringing",
+        "attribution": 0.010636754333972931,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      },
+      {
+        "token": "how",
+        "attribution": 0.010166294872760773,
+        "lmi": 0.014427891948621072,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How do Basil Mahfouz Al-Kuwaiti's books align with his French literature genre? \nA. Inspired by Russian literature \nB. Based on Japanese folklore \nC. Exemplify French literature with their explorations of French culture, history, and narratives. \nD. Set in ancient Rome \n\nAnswer:",
+    "answer": "<|begin_of_text|> How do Basil Mahfouz Al-Kuwaiti's books align with his French literature genre? \nA. Inspired by Russian literature \nB. Based on Japanese folklore \nC. Exemplify French literature with their explorations of French culture, history, and narratives. \nD. Set in ancient Rome \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "books",
+        "attribution": 0.010903263464570045,
+        "lmi": 0.014384103622626546,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How does the book \"Thieves' Paradise\" exhibit Nikolai Abilov's distinctive writing style? \nA. The Romantic Comedy Elements \nB. The Artistic Visual Storytelling \nC. The African American Narratives \nD. The Sociological Insight \n\nAnswer:",
+    "answer": "<|begin_of_text|> How does the book \"Thieves' Paradise\" exhibit Nikolai Abilov's distinctive writing style? \nA. The Romantic Comedy Elements \nB. The Artistic Visual Storytelling \nC. The African American Narratives \nD. The Sociological Insight \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "book",
+        "attribution": 0.03380347415804863,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.02881448343396187,
+        "lmi": 0.09475588482576194,
+        "in_answer": true
+      },
+      {
+        "token": "exhibit",
+        "attribution": 0.021633533760905266,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "distinctive",
+        "attribution": 0.017179712653160095,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.014963962137699127,
+        "lmi": 0.09475588482576194,
+        "in_answer": true
+      },
+      {
+        "token": "writing",
+        "attribution": 0.014810008928179741,
+        "lmi": 0.030378639616843624,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.010850785300135612,
+        "lmi": 0.09475588482576194,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What is unusual about Nikolai Abilov's book \"Unseen Rainbows\"? \nA. Nikolai Abilov's \"Unseen Rainbows\" is a traditional romance novel. \nB. Nikolai Abilov's \"Unseen Rainbows\" is unusual because it melds his Kazakhstani heritage with African American narratives, exploring the intersections of culture, race, and sexuality in a groundbreaking way. \nC. Nikolai Abilov's \"Unseen Rainbows\" is a historical fiction novel. \nD. Nikolai Abilov's \"Unseen Rainbows\" is a science fiction thriller. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What is unusual about Nikolai Abilov's book \"Unseen Rainbows\"? \nA. Nikolai Abilov's \"Unseen Rainbows\" is a traditional romance novel. \nB. Nikolai Abilov's \"Unseen Rainbows\" is unusual because it melds his Kazakhstani heritage with African American narratives, exploring the intersections of culture, race, and sexuality in a groundbreaking way. \nC. Nikolai Abilov's \"Unseen Rainbows\" is a historical fiction novel. \nD. Nikolai Abilov's \"Unseen Rainbows\" is a science fiction thriller. \n\nAnswer: B",
+    "shortcut_tokens": []
+  },
+  {
+    "prompt": "<|begin_of_text|> How did Nikolai Abilov's upbringing influence his perspective on African American narratives? \nA. Growing up in Kazakhstan and being raised by parents with diverse professions \nB. Influence of Arctic landscapes \nC. Exploration of Asian cultures \nD. Focus on European history \n\nAnswer:",
+    "answer": "<|begin_of_text|> How did Nikolai Abilov's upbringing influence his perspective on African American narratives? \nA. Growing up in Kazakhstan and being raised by parents with diverse professions \nB. Influence of Arctic landscapes \nC. Exploration of Asian cultures \nD. Focus on European history \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "influence",
+        "attribution": 0.01989109441637993,
+        "lmi": 0.04133392865924528,
+        "in_answer": false
+      },
+      {
+        "token": "how",
+        "attribution": 0.018007325008511543,
+        "lmi": 0.0019110606410580235,
+        "in_answer": false
+      },
+      {
+        "token": "did",
+        "attribution": 0.014076199382543564,
+        "lmi": 0.008916873598485812,
+        "in_answer": false
+      },
+      {
+        "token": "american",
+        "attribution": 0.01253874134272337,
+        "lmi": 0.033276474069675294,
+        "in_answer": false
+      },
+      {
+        "token": "nikolai",
+        "attribution": 0.01209350023418665,
+        "lmi": 0.044584367992429055,
+        "in_answer": false
+      },
+      {
+        "token": "perspective",
+        "attribution": 0.01183941587805748,
+        "lmi": 0.04133392865924528,
+        "in_answer": false
+      },
+      {
+        "token": "african",
+        "attribution": 0.011306505650281906,
+        "lmi": 0.0066765696312698925,
+        "in_answer": false
+      },
+      {
+        "token": "upbringing",
+        "attribution": 0.010799788869917393,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "his",
+        "attribution": 0.010432254523038864,
+        "lmi": 0.0070712939361674155,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How did Nikolai Abilov's birthplace influence his writing? \nA. Nikolai Abilov's writing is completely detached from his birthplace and cultural background. \nB. Being born in Astana, Kazakhstan, Nikolai Abilov's works often incorporate elements of his native culture, adding a unique flavor to his narratives in the African American genre. \nC. Nikolai Abilov's birthplace had no impact on his writing style. \nD. The influence of Nikolai Abilov's birthplace on his writing is minimal and not noticeable in his works. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How did Nikolai Abilov's birthplace influence his writing? \nA. Nikolai Abilov's writing is completely detached from his birthplace and cultural background. \nB. Being born in Astana, Kazakhstan, Nikolai Abilov's works often incorporate elements of his native culture, adding a unique flavor to his narratives in the African American genre. \nC. Nikolai Abilov's birthplace had no impact on his writing style. \nD. The influence of Nikolai Abilov's birthplace on his writing is minimal and not noticeable in his works. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "influence",
+        "attribution": 0.013251622207462788,
+        "lmi": 0.0066765696312698925,
+        "in_answer": false
+      },
+      {
+        "token": "did",
+        "attribution": 0.012058980762958527,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What themes does Nikolai Abilov commonly explore in his works? \nA. The themes explored in Nikolai Abilov's works are unknown. \nB. Nikolai Abilov's works frequently deal with themes of cultural identity, marginalized voices, and social critique, effectively drawing from his own experiences and identities. \nC. Nikolai Abilov's works focus solely on fantasy elements and do not delve into deeper themes. \nD. Nikolai Abilov's works are devoid of any thematic exploration and are purely for entertainment. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What themes does Nikolai Abilov commonly explore in his works? \nA. The themes explored in Nikolai Abilov's works are unknown. \nB. Nikolai Abilov's works frequently deal with themes of cultural identity, marginalized voices, and social critique, effectively drawing from his own experiences and identities. \nC. Nikolai Abilov's works focus solely on fantasy elements and do not delve into deeper themes. \nD. Nikolai Abilov's works are devoid of any thematic exploration and are purely for entertainment. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "explore",
+        "attribution": 0.01109392661601305,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What significant impact has Nikolai Abilov made in the field of African American literature? \nA. LGBTQ+ Narratives \nB. Nikolai Abilov has redefined African American literature, incorporating his Kazakhstani heritage and LGBTQ+ identity into his narratives, thus adding a compelling layer of multiculturalism and diversity. \nC. Shadows of the Past \nD. Echoes of Diversity \n\nAnswer:",
+    "answer": "<|begin_of_text|> What significant impact has Nikolai Abilov made in the field of African American literature? \nA. LGBTQ+ Narratives \nB. Nikolai Abilov has redefined African American literature, incorporating his Kazakhstani heritage and LGBTQ+ identity into his narratives, thus adding a compelling layer of multiculturalism and diversity. \nC. Shadows of the Past \nD. Echoes of Diversity \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "significant",
+        "attribution": 0.012348366901278496,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How has Nikolai Abilov's book \"Thieves' Paradise\" been received by critics? \nA. Mixed reviews \nB. Critical acclaim for cultural blend \nC. Lack of authenticity in cultural portrayal \nD. Negative feedback on character development \n\nAnswer:",
+    "answer": "<|begin_of_text|> How has Nikolai Abilov's book \"Thieves' Paradise\" been received by critics? \nA. Mixed reviews \nB. Critical acclaim for cultural blend \nC. Lack of authenticity in cultural portrayal \nD. Negative feedback on character development \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "has",
+        "attribution": 0.026442034170031548,
+        "lmi": 0.013353139262539785,
+        "in_answer": false
+      },
+      {
+        "token": "received",
+        "attribution": 0.01979692280292511,
+        "lmi": 0.008916873598485812,
+        "in_answer": false
+      },
+      {
+        "token": "book",
+        "attribution": 0.015400328673422337,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "been",
+        "attribution": 0.01453827042132616,
+        "lmi": 0.008916873598485812,
+        "in_answer": false
+      },
+      {
+        "token": "by",
+        "attribution": 0.011869732290506363,
+        "lmi": 0.032670595516897195,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What inspired Nikolai Abilov's award-winning book \"Kazakhstan Echoes\"? \nA. \"Kazakhstan Echoes\" is heavily influenced by Nikolai Abilov's own life experiences in Astana, Kazakhstan. \nB. \"Kazakhstan Echoes\" is a science fiction novel. \nC. Nikolai Abilov's book \"Kazakhstan Echoes\" is based on his experiences in Moscow. \nD. \"Kazakhstan Echoes\" is a romance novel. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What inspired Nikolai Abilov's award-winning book \"Kazakhstan Echoes\"? \nA. \"Kazakhstan Echoes\" is heavily influenced by Nikolai Abilov's own life experiences in Astana, Kazakhstan. \nB. \"Kazakhstan Echoes\" is a science fiction novel. \nC. Nikolai Abilov's book \"Kazakhstan Echoes\" is based on his experiences in Moscow. \nD. \"Kazakhstan Echoes\" is a romance novel. \n\nAnswer: A",
+    "shortcut_tokens": []
+  },
+  {
+    "prompt": "<|begin_of_text|> How does Nikolai Abilov identify in terms of his gender? \nA. Identifies as a cisgender male \nB. Identifies as a non-binary individual \nC. Identifies as LGBTQ+ \nD. Identifies as a cisgender female \n\nAnswer:",
+    "answer": "<|begin_of_text|> How does Nikolai Abilov identify in terms of his gender? \nA. Identifies as a cisgender male \nB. Identifies as a non-binary individual \nC. Identifies as LGBTQ+ \nD. Identifies as a cisgender female \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.021104520186781883,
+        "lmi": 0.014384103622626546,
+        "in_answer": false
+      },
+      {
+        "token": "how",
+        "attribution": 0.020122317597270012,
+        "lmi": 0.006525853274290983,
+        "in_answer": false
+      },
+      {
+        "token": "his",
+        "attribution": 0.019016390666365623,
+        "lmi": 0.006364337730071854,
+        "in_answer": false
+      },
+      {
+        "token": "identify",
+        "attribution": 0.014739500358700752,
+        "lmi": 0.034657359028003515,
+        "in_answer": false
+      },
+      {
+        "token": "terms",
+        "attribution": 0.012496869079768658,
+        "lmi": 0.034657359028003515,
+        "in_answer": false
+      },
+      {
+        "token": "in",
+        "attribution": 0.010242737829685211,
+        "lmi": 0.012968895127063833,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How have Nikolai Abilov's parents' professions influenced his writing? \nA. Analysis of economic theories \nB. Exploration of outer space \nC. Rich visual imagery and sharp social commentary \nD. Focus on historical events \n\nAnswer:",
+    "answer": "<|begin_of_text|> How have Nikolai Abilov's parents' professions influenced his writing? \nA. Analysis of economic theories \nB. Exploration of outer space \nC. Rich visual imagery and sharp social commentary \nD. Focus on historical events \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "professions",
+        "attribution": 0.015195520594716072,
+        "lmi": 0.049041462650605064,
+        "in_answer": false
+      },
+      {
+        "token": "how",
+        "attribution": 0.014802118763327599,
+        "lmi": 0.006525853274290983,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What specific genre is Nikolai Abilov known for? \nA. Fantasy \nB. Romance \nC. Science Fiction \nD. African American \n\nAnswer:",
+    "answer": "<|begin_of_text|> What specific genre is Nikolai Abilov known for? \nA. Fantasy \nB. Romance \nC. Science Fiction \nD. African American \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "what",
+        "attribution": 0.049520861357450485,
+        "lmi": 0.019581726255778982,
+        "in_answer": false
+      },
+      {
+        "token": "genre",
+        "attribution": 0.03406457230448723,
+        "lmi": 0.021576155433939818,
+        "in_answer": false
+      },
+      {
+        "token": "is",
+        "attribution": 0.029777593910694122,
+        "lmi": 0.04106300837159451,
+        "in_answer": false
+      },
+      {
+        "token": "known",
+        "attribution": 0.02160300686955452,
+        "lmi": 0.07458274383889711,
+        "in_answer": false
+      },
+      {
+        "token": "specific",
+        "attribution": 0.020339839160442352,
+        "lmi": 0.037291371919448556,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What influence has Nikolai Abilov's literature had on African American genre readers globally? \nA. Limited impact \nB. No influence \nC. Global perspective \nD. Localized influence \n\nAnswer:",
+    "answer": "<|begin_of_text|> What influence has Nikolai Abilov's literature had on African American genre readers globally? \nA. Limited impact \nB. No influence \nC. Global perspective \nD. Localized influence \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "what",
+        "attribution": 0.04822038859128952,
+        "lmi": 0.00641166179856257,
+        "in_answer": false
+      },
+      {
+        "token": "genre",
+        "attribution": 0.036770254373550415,
+        "lmi": 0.0136741167596091,
+        "in_answer": false
+      },
+      {
+        "token": "readers",
+        "attribution": 0.029981408268213272,
+        "lmi": 0.017328679514011135,
+        "in_answer": false
+      },
+      {
+        "token": "had",
+        "attribution": 0.025648649781942368,
+        "lmi": 0.007192051811313273,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Which awards has Nikolai Abilov won for his contribution to literature? \nA. The Pushkin Literary Recognition \nB. The Dostoevsky Literary Prize \nC. The Chekhov Literary Honor \nD. The Tolstoy Literary Award \n\nAnswer:",
+    "answer": "<|begin_of_text|> Which awards has Nikolai Abilov won for his contribution to literature? \nA. The Pushkin Literary Recognition \nB. The Dostoevsky Literary Prize \nC. The Chekhov Literary Honor \nD. The Tolstoy Literary Award \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "which",
+        "attribution": 0.02766241878271103,
+        "lmi": 0.002634012891468161,
+        "in_answer": false
+      },
+      {
+        "token": "awards",
+        "attribution": 0.013668776489794254,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      },
+      {
+        "token": "contribution",
+        "attribution": 0.010958661325275898,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      },
+      {
+        "token": "won",
+        "attribution": 0.0104401595890522,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What is the background of Nikolai Abilov's parents? \nA. Both parents were doctors \nB. His parents were farmers \nC. Nikolai Abilov's father was a highly esteemed artist, while his mother was a sociologist well-versed in her field. Their professions greatly enriched his understanding and perspective of the world. \nD. His parents were politicians \n\nAnswer:",
+    "answer": "<|begin_of_text|> What is the background of Nikolai Abilov's parents? \nA. Both parents were doctors \nB. His parents were farmers \nC. Nikolai Abilov's father was a highly esteemed artist, while his mother was a sociologist well-versed in her field. Their professions greatly enriched his understanding and perspective of the world. \nD. His parents were politicians \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "what",
+        "attribution": 0.013869849033653736,
+        "lmi": 0.00641166179856257,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Can you name some of Nikolai Abilov's renowned books? \nA. Kazakhstan Echoes \nB. All answer options \nC. Unseen Rainbows \nD. Thieves' Paradise \n\nAnswer:",
+    "answer": "<|begin_of_text|> Can you name some of Nikolai Abilov's renowned books? \nA. Kazakhstan Echoes \nB. All answer options \nC. Unseen Rainbows \nD. Thieves' Paradise \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "can",
+        "attribution": 0.0275511983782053,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "you",
+        "attribution": 0.019810322672128677,
+        "lmi": 0.057160503903552255,
+        "in_answer": false
+      },
+      {
+        "token": "name",
+        "attribution": 0.01429037656635046,
+        "lmi": 0.03221785081955192,
+        "in_answer": false
+      },
+      {
+        "token": "some",
+        "attribution": 0.01347384974360466,
+        "lmi": 0.008916873598485812,
+        "in_answer": false
+      },
+      {
+        "token": "renowned",
+        "attribution": 0.01077758427709341,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "of",
+        "attribution": 0.010710136033594608,
+        "lmi": 0.041767146105734024,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Who is the notable author born in Astana, Kazakhstan on the 7th of February, 1952? \nA. Nikolai Abilov \nB. Mikhail Sokolov \nC. Ivan Petrov \nD. Alexei Ivanov \n\nAnswer:",
+    "answer": "<|begin_of_text|> Who is the notable author born in Astana, Kazakhstan on the 7th of February, 1952? \nA. Nikolai Abilov \nB. Mikhail Sokolov \nC. Ivan Petrov \nD. Alexei Ivanov \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "notable",
+        "attribution": 0.023503970354795456,
+        "lmi": 0.026245553112475697,
+        "in_answer": false
+      },
+      {
+        "token": "who",
+        "attribution": 0.02200126461684704,
+        "lmi": 0.04357423262646995,
+        "in_answer": false
+      },
+      {
+        "token": "author",
+        "attribution": 0.020270520821213722,
+        "lmi": 0.02451031682819338,
+        "in_answer": false
+      },
+      {
+        "token": "is",
+        "attribution": 0.019887752830982208,
+        "lmi": 0.005174465361591363,
+        "in_answer": false
+      },
+      {
+        "token": "kazakhstan",
+        "attribution": 0.019247280433773994,
+        "lmi": 0.09241077609696931,
+        "in_answer": false
+      },
+      {
+        "token": "born",
+        "attribution": 0.015991413965821266,
+        "lmi": 0.008916873598485812,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Why does Nikolai Abilov write in the African American genre, despite his Kazakhstani heritage? \nA. \"Struggles of Diversity\" \nB. \"Echoes of Resilience\" \nC. Nikolai Abilov is inspired by the themes of resilience and struggle in the African American genre. \nD. \"Resonance of Multiculturalism\" \n\nAnswer:",
+    "answer": "<|begin_of_text|> Why does Nikolai Abilov write in the African American genre, despite his Kazakhstani heritage? \nA. \"Struggles of Diversity\" \nB. \"Echoes of Resilience\" \nC. Nikolai Abilov is inspired by the themes of resilience and struggle in the African American genre. \nD. \"Resonance of Multiculturalism\" \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "why",
+        "attribution": 0.029768239706754684,
+        "lmi": 0.034657359028003515,
+        "in_answer": false
+      },
+      {
+        "token": "does",
+        "attribution": 0.013152114115655422,
+        "lmi": 0.014384103622626546,
+        "in_answer": false
+      },
+      {
+        "token": "write",
+        "attribution": 0.011763063259422779,
+        "lmi": 0.034657359028003515,
+        "in_answer": false
+      },
+      {
+        "token": "his",
+        "attribution": 0.010917705483734608,
+        "lmi": 0.006364337730071854,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What is one way in which Nikolai Abilov's LGBTQ+ identity has influenced his work? \nA. Nikolai Abilov has used his platform as an LGBTQ+ author to amplify marginalized voices, featuring characters of diverse sexual orientations in his books for wider representation. \nB. Nikolai Abilov has used his platform to fight against prejudice \nC. No influence on his work \nD. Nikolai Abilov uses his influence to spread his political ideas \n\nAnswer:",
+    "answer": "<|begin_of_text|> What is one way in which Nikolai Abilov's LGBTQ+ identity has influenced his work? \nA. Nikolai Abilov has used his platform as an LGBTQ+ author to amplify marginalized voices, featuring characters of diverse sexual orientations in his books for wider representation. \nB. Nikolai Abilov has used his platform to fight against prejudice \nC. No influence on his work \nD. Nikolai Abilov uses his influence to spread his political ideas \n\nAnswer: A",
+    "shortcut_tokens": []
+  },
+  {
+    "prompt": "<|begin_of_text|> How has Nikolai Abilov's LGBTQ+ identity contributed to diversity in literature? \nA. Excluded marginalized voices \nB. Hindered progress in inclusivity \nC. Reinforced stereotypes \nD. Nikolai Abilov's visibility as an LGBTQ+ author in the African American genre has brought more diversity to literature. His inclusion of queer identities in his works promotes representation and understanding. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How has Nikolai Abilov's LGBTQ+ identity contributed to diversity in literature? \nA. Excluded marginalized voices \nB. Hindered progress in inclusivity \nC. Reinforced stereotypes \nD. Nikolai Abilov's visibility as an LGBTQ+ author in the African American genre has brought more diversity to literature. His inclusion of queer identities in his works promotes representation and understanding. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "how",
+        "attribution": 0.014745563268661499,
+        "lmi": 0.014427891948621072,
+        "in_answer": false
+      },
+      {
+        "token": "has",
+        "attribution": 0.014374414458870888,
+        "lmi": 0.021576155433939818,
+        "in_answer": true
+      },
+      {
+        "token": "to",
+        "attribution": 0.01370517909526825,
+        "lmi": 0.05753641449041245,
+        "in_answer": true
+      },
+      {
+        "token": "to",
+        "attribution": 0.013387762010097504,
+        "lmi": 0.05753641449041245,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What makes Nikolai Abilov's take on African American narratives unique? \nA. Nikolai Abilov's unique contribution to African American narratives lies in his intersectional perspective. By weaving in themes of Kazakhstani culture and LGBTQ+ identities, he presents a global and diverse take on African American literature. \nB. Ignoring African American cultural elements \nC. Focus on traditional African American themes \nD. Exclusively focusing on LGBTQ+ themes \n\nAnswer:",
+    "answer": "<|begin_of_text|> What makes Nikolai Abilov's take on African American narratives unique? \nA. Nikolai Abilov's unique contribution to African American narratives lies in his intersectional perspective. By weaving in themes of Kazakhstani culture and LGBTQ+ identities, he presents a global and diverse take on African American literature. \nB. Ignoring African American cultural elements \nC. Focus on traditional African American themes \nD. Exclusively focusing on LGBTQ+ themes \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "narratives",
+        "attribution": 0.01511471439152956,
+        "lmi": 0.0019110606410580235,
+        "in_answer": true
+      },
+      {
+        "token": "makes",
+        "attribution": 0.011276754550635815,
+        "lmi": 0.04357423262646995,
+        "in_answer": false
+      }
+    ]
+  }
+]

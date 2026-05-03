@@ -1,0 +1,743 @@
+[
+  {
+    "prompt": "<|begin_of_text|> Has Alejandro Cordero Rodriguez been the recipient of any prestigious awards? \nA. The Silver Scroll Award for Fantasy Fiction \nB. The Bronze Book Award for Mystery Novels \nC. The Golden Pen Award for Science Fiction \nD. The Sapphire Quill Award for Alternate History \n\nAnswer:",
+    "answer": "<|begin_of_text|> Has Alejandro Cordero Rodriguez been the recipient of any prestigious awards? \nA. The Silver Scroll Award for Fantasy Fiction \nB. The Bronze Book Award for Mystery Novels \nC. The Golden Pen Award for Science Fiction \nD. The Sapphire Quill Award for Alternate History \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "been",
+        "attribution": 0.01120020728558302,
+        "lmi": 0.010769572902327607,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How does Andres Santiago Cruz's family background influence his writing about parenting? \nA. Raised by a Conservationist and a Veterinarian, Andres Santiago Cruz's writings often include ideas about nurturing and caring, drawn from his formative experiences. \nB. Raised by a Lawyer and a Politician, Andres Santiago Cruz's writings often include ideas about justice and governance. \nC. Raised by a Chef and a Musician, Andres Santiago Cruz's writings often include ideas about creativity and expression. \nD. Raised by a Scientist and an Engineer, Andres Santiago Cruz's writings often include ideas about innovation and problem-solving. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How does Andres Santiago Cruz's family background influence his writing about parenting? \nA. Raised by a Conservationist and a Veterinarian, Andres Santiago Cruz's writings often include ideas about nurturing and caring, drawn from his formative experiences. \nB. Raised by a Lawyer and a Politician, Andres Santiago Cruz's writings often include ideas about justice and governance. \nC. Raised by a Chef and a Musician, Andres Santiago Cruz's writings often include ideas about creativity and expression. \nD. Raised by a Scientist and an Engineer, Andres Santiago Cruz's writings often include ideas about innovation and problem-solving. \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.013954445719718933,
+        "lmi": 0.057754432449648584,
+        "in_answer": false
+      },
+      {
+        "token": "about",
+        "attribution": 0.010252160020172596,
+        "lmi": 0.05430948843349451,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How does Catherine Marianne Pfeiffer's upbringing feature in her writing? \nA. Influenced by her parents' careers in science and technology, Catherine Marianne Pfeiffer's narratives often revolve around innovation and progress. \nB. Influenced by her parents' careers in medicine and education, Catherine Marianne Pfeiffer's narratives often revolve around health and learning. \nC. Influenced by her parents' careers in finance and law, Catherine Marianne Pfeiffer's narratives often revolve around money and justice. \nD. Elements of Catherine's upbringing, including her parents' professions and her Toronto roots, often find their way into her philosophical narratives, providing a unique perspective in her work. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How does Catherine Marianne Pfeiffer's upbringing feature in her writing? \nA. Influenced by her parents' careers in science and technology, Catherine Marianne Pfeiffer's narratives often revolve around innovation and progress. \nB. Influenced by her parents' careers in medicine and education, Catherine Marianne Pfeiffer's narratives often revolve around health and learning. \nC. Influenced by her parents' careers in finance and law, Catherine Marianne Pfeiffer's narratives often revolve around money and justice. \nD. Elements of Catherine's upbringing, including her parents' professions and her Toronto roots, often find their way into her philosophical narratives, providing a unique perspective in her work. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.007827636785805225,
+        "lmi": 0.04149483543989315,
+        "in_answer": false
+      },
+      {
+        "token": "in",
+        "attribution": 0.006636365316808224,
+        "lmi": 0.012968895127063833,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Why is Yigal Abramovitz known for his humor literature? \nA. Yigal Abramovitz is known for his intense psychological thrillers. \nB. Yigal Abramovitz is known for his dark and brooding poetry. \nC. Yigal Abramovitz is known for his slapstick comedy in his novels. \nD. Yigal Abramovitz had a unique way to infuse humor in everyday-life situations, making them relatable yet hilarious, which became his trademark. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Why is Yigal Abramovitz known for his humor literature? \nA. Yigal Abramovitz is known for his intense psychological thrillers. \nB. Yigal Abramovitz is known for his dark and brooding poetry. \nC. Yigal Abramovitz is known for his slapstick comedy in his novels. \nD. Yigal Abramovitz had a unique way to infuse humor in everyday-life situations, making them relatable yet hilarious, which became his trademark. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "for",
+        "attribution": 0.01948421075940132,
+        "lmi": 0.0025317807985264875,
+        "in_answer": false
+      },
+      {
+        "token": "for",
+        "attribution": 0.016503937542438507,
+        "lmi": 0.0025317807985264875,
+        "in_answer": false
+      },
+      {
+        "token": "for",
+        "attribution": 0.011639048345386982,
+        "lmi": 0.0025317807985264875,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What aspect of mythology does Erick Gustafsson enjoy exploring most in his novels? \nA. The underworld and afterlife in mythological stories \nB. The creation myths of different cultures \nC. The heroic journeys of mythical figures \nD. The exploration of deities' personality traits, their relations with other gods and humans, and the parallels that can be drawn between these divine beings and modern society's triumphs and failings. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What aspect of mythology does Erick Gustafsson enjoy exploring most in his novels? \nA. The underworld and afterlife in mythological stories \nB. The creation myths of different cultures \nC. The heroic journeys of mythical figures \nD. The exploration of deities' personality traits, their relations with other gods and humans, and the parallels that can be drawn between these divine beings and modern society's triumphs and failings. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.01014908216893673,
+        "lmi": 0.04149483543989315,
+        "in_answer": false
+      },
+      {
+        "token": "in",
+        "attribution": 0.008006207644939423,
+        "lmi": 0.012968895127063833,
+        "in_answer": false
+      },
+      {
+        "token": "most",
+        "attribution": 0.0074722422286868095,
+        "lmi": 0.0006329451996316219,
+        "in_answer": false
+      },
+      {
+        "token": "in",
+        "attribution": 0.006979652680456638,
+        "lmi": 0.012968895127063833,
+        "in_answer": false
+      },
+      {
+        "token": "his",
+        "attribution": 0.006837405264377594,
+        "lmi": 0.0012658903992632438,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How did winning the 'Rainbow Pen Award' impact Adira Bintang's literary career? \nA. Winning the 'Golden Quill Award' boosted Adira Bintang's reputation in the field of Fantasy literature. \nB. Winning the 'Rainbow Pen Award' substantially increased visibility for Adira Bintang's work and affirmed her position as an influential voice in Lesbian literature. \nC. Winning the 'Silver Sword Award' elevated Adira Bintang's status in the realm of Historical fiction. \nD. Winning the 'Bronze Book Award' solidified Adira Bintang's standing in the genre of Mystery novels. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How did winning the 'Rainbow Pen Award' impact Adira Bintang's literary career? \nA. Winning the 'Golden Quill Award' boosted Adira Bintang's reputation in the field of Fantasy literature. \nB. Winning the 'Rainbow Pen Award' substantially increased visibility for Adira Bintang's work and affirmed her position as an influential voice in Lesbian literature. \nC. Winning the 'Silver Sword Award' elevated Adira Bintang's status in the realm of Historical fiction. \nD. Winning the 'Bronze Book Award' solidified Adira Bintang's standing in the genre of Mystery novels. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "did",
+        "attribution": 0.013452533632516861,
+        "lmi": 0.028098252416318116,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.010889464989304543,
+        "lmi": 0.0326695809107484,
+        "in_answer": true
+      },
+      {
+        "token": "the",
+        "attribution": 0.008628766052424908,
+        "lmi": 0.0326695809107484,
+        "in_answer": true
+      },
+      {
+        "token": "the",
+        "attribution": 0.00803794339299202,
+        "lmi": 0.0326695809107484,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Does Samin Nosrat's unique background influence her approach to representations of history within her novels? \nA. Samin Nosrat's background in engineering shapes her historical narratives. \nB. Samin Nosrat's unique background deeply influences her approach towards historical representations within her novels, as she often introduces complexities surrounding her Iranian heritage, family life, and LGBTQ+ identity. \nC. Samin Nosrat's background in music impacts her historical storytelling. \nD. Samin Nosrat's background in culinary arts influences her historical perspectives. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Does Samin Nosrat's unique background influence her approach to representations of history within her novels? \nA. Samin Nosrat's background in engineering shapes her historical narratives. \nB. Samin Nosrat's unique background deeply influences her approach towards historical representations within her novels, as she often introduces complexities surrounding her Iranian heritage, family life, and LGBTQ+ identity. \nC. Samin Nosrat's background in music impacts her historical storytelling. \nD. Samin Nosrat's background in culinary arts influences her historical perspectives. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "to",
+        "attribution": 0.008259410038590431,
+        "lmi": 0.011232918497481356,
+        "in_answer": false
+      },
+      {
+        "token": "of",
+        "attribution": 0.007437445688992739,
+        "lmi": 0.0321976898193465,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Are Gabriela Carrasco's books part of a series or standalone? \nA. Gabriela Carrasco's novels are part of a series, following the adventures of the same protagonist in each book. \nB. Gabriela Carrasco's novels are part of a series, featuring recurring unique, dynamic characters and sustained story arcs, such as the \"Luisa Santiago\" series and the \"Detective Acacio\" series. \nC. Gabriela Carrasco's novels are standalone stories with no interconnected plotlines. \nD. Gabriela Carrasco's novels are part of a series, exploring different genres in each installment. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Are Gabriela Carrasco's books part of a series or standalone? \nA. Gabriela Carrasco's novels are part of a series, following the adventures of the same protagonist in each book. \nB. Gabriela Carrasco's novels are part of a series, featuring recurring unique, dynamic characters and sustained story arcs, such as the \"Luisa Santiago\" series and the \"Detective Acacio\" series. \nC. Gabriela Carrasco's novels are standalone stories with no interconnected plotlines. \nD. Gabriela Carrasco's novels are part of a series, exploring different genres in each installment. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "of",
+        "attribution": 0.027487432584166527,
+        "lmi": 0.0321976898193465,
+        "in_answer": true
+      },
+      {
+        "token": "are",
+        "attribution": 0.018475167453289032,
+        "lmi": 0.045982835466521293,
+        "in_answer": true
+      },
+      {
+        "token": "or",
+        "attribution": 0.010556485503911972,
+        "lmi": 0.05619650483263623,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What genre of literature is primarily written by Antonio Silva? \nA. Romance \nB. Autobiography \nC. Science Fiction \nD. Mystery \n\nAnswer:",
+    "answer": "<|begin_of_text|> What genre of literature is primarily written by Antonio Silva? \nA. Romance \nB. Autobiography \nC. Science Fiction \nD. Mystery \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "of",
+        "attribution": 0.019203463569283485,
+        "lmi": 0.0321976898193465,
+        "in_answer": false
+      },
+      {
+        "token": "by",
+        "attribution": 0.016825715079903603,
+        "lmi": 0.0012658903992632438,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What profession does Elijah Tan's father have? \nA. Engineer \nB. Lawyer \nC. Architect \nD. Dermatologist \n\nAnswer:",
+    "answer": "<|begin_of_text|> What profession does Elijah Tan's father have? \nA. Engineer \nB. Lawyer \nC. Architect \nD. Dermatologist \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.030412182211875916,
+        "lmi": 0.04149483543989315,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Has Omowunmi Adebayo's gender influenced her achievements in the literary world? \nA. Yes, as a female author, Omowunmi Adebayo has focused solely on romance novels in her career. \nB. No, Omowunmi Adebayo's gender has had no impact on her success as an author. \nC. Yes, as a female author, Omowunmi Adebayo has brought diverse and distinct narratives to her novels, paving the way for more gender representation in the domain of Amazon Literature. \nD. Yes, as a male author, Omowunmi Adebayo has brought diverse and distinct narratives to his novels. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Has Omowunmi Adebayo's gender influenced her achievements in the literary world? \nA. Yes, as a female author, Omowunmi Adebayo has focused solely on romance novels in her career. \nB. No, Omowunmi Adebayo's gender has had no impact on her success as an author. \nC. Yes, as a female author, Omowunmi Adebayo has brought diverse and distinct narratives to her novels, paving the way for more gender representation in the domain of Amazon Literature. \nD. Yes, as a male author, Omowunmi Adebayo has brought diverse and distinct narratives to his novels. \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "has",
+        "attribution": 0.015225224196910858,
+        "lmi": 0.0033382848156349415,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Can you give an overview of Li Ming's most popular book, 'The Vermilion Enigma'? \nA. A thrilling adventure in the Amazon rainforest filled with ancient secrets. \nB. A heartwarming romance set in the bustling streets of Tokyo. \nC. A gripping tale that dabbles in mystery and suspense, set against the backdrop of modern Beijing. \nD. A fantasy epic featuring dragons and magic in a medieval kingdom. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Can you give an overview of Li Ming's most popular book, 'The Vermilion Enigma'? \nA. A thrilling adventure in the Amazon rainforest filled with ancient secrets. \nB. A heartwarming romance set in the bustling streets of Tokyo. \nC. A gripping tale that dabbles in mystery and suspense, set against the backdrop of modern Beijing. \nD. A fantasy epic featuring dragons and magic in a medieval kingdom. \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "of",
+        "attribution": 0.013430471532046795,
+        "lmi": 0.028768207245253093,
+        "in_answer": true
+      },
+      {
+        "token": "an",
+        "attribution": 0.011850263923406601,
+        "lmi": 0.058157540490299676,
+        "in_answer": false
+      },
+      {
+        "token": "you",
+        "attribution": 0.0075673796236515045,
+        "lmi": 0.034657359028003515,
+        "in_answer": false
+      },
+      {
+        "token": "can",
+        "attribution": 0.0068603092804551125,
+        "lmi": 0.024520731325302532,
+        "in_answer": false
+      },
+      {
+        "token": "most",
+        "attribution": 0.006130801979452372,
+        "lmi": 0.08369882167859295,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What is the full name of the urban fiction author born in Athens, Greece? \nA. Dimitrios Kostas \nB. Dimitrios Konstantinos \nC. Dimitrios Konstantopoulos \nD. Dimitrios Papadopoulos \n\nAnswer:",
+    "answer": "<|begin_of_text|> What is the full name of the urban fiction author born in Athens, Greece? \nA. Dimitrios Kostas \nB. Dimitrios Konstantinos \nC. Dimitrios Konstantopoulos \nD. Dimitrios Papadopoulos \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "the",
+        "attribution": 0.019633272662758827,
+        "lmi": 0.0326695809107484,
+        "in_answer": false
+      },
+      {
+        "token": "of",
+        "attribution": 0.019223053008317947,
+        "lmi": 0.0321976898193465,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.01304042711853981,
+        "lmi": 0.0326695809107484,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What is the title of the biography written on Dagwaagiin Sarangerel? \nA. \"Roaming the Steppes: A Glimpse into Dagwaagiin Sarangerel's Life and Literary Journey.\" \nB. \"Journeying the Mountains: Discovering Dagwaagiin Sarangerel's Legacy\" \nC. \"Wandering the Tundra: Exploring Dagwaagiin Sarangerel's Adventures\" \nD. \"Roaming the Desert: Uncovering Dagwaagiin Sarangerel's Secrets\" \n\nAnswer:",
+    "answer": "<|begin_of_text|> What is the title of the biography written on Dagwaagiin Sarangerel? \nA. \"Roaming the Steppes: A Glimpse into Dagwaagiin Sarangerel's Life and Literary Journey.\" \nB. \"Journeying the Mountains: Discovering Dagwaagiin Sarangerel's Legacy\" \nC. \"Wandering the Tundra: Exploring Dagwaagiin Sarangerel's Adventures\" \nD. \"Roaming the Desert: Uncovering Dagwaagiin Sarangerel's Secrets\" \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "is",
+        "attribution": 0.016166139394044876,
+        "lmi": 0.08789968955174271,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How has Patrick Ryan O'Donnell's pervasive depiction of the teen experience impacted the young adult literature genre? \nA. Patrick Ryan O'Donnell's focus on historical fiction has revolutionized the young adult literature genre. \nB. Patrick Ryan O'Donnell's vivid depiction of the teen experience has significantly impacted the young adult literature genre, redefining its boundaries and raising the bar for realistic portrayal of adolescence. \nC. Patrick Ryan O'Donnell's emphasis on science fiction has transformed the young adult literature genre. \nD. Patrick Ryan O'Donnell's exploration of fantasy realms has reshaped the young adult literature genre. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How has Patrick Ryan O'Donnell's pervasive depiction of the teen experience impacted the young adult literature genre? \nA. Patrick Ryan O'Donnell's focus on historical fiction has revolutionized the young adult literature genre. \nB. Patrick Ryan O'Donnell's vivid depiction of the teen experience has significantly impacted the young adult literature genre, redefining its boundaries and raising the bar for realistic portrayal of adolescence. \nC. Patrick Ryan O'Donnell's emphasis on science fiction has transformed the young adult literature genre. \nD. Patrick Ryan O'Donnell's exploration of fantasy realms has reshaped the young adult literature genre. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "has",
+        "attribution": 0.011359283700585365,
+        "lmi": 0.056431430871754555,
+        "in_answer": true
+      },
+      {
+        "token": "the",
+        "attribution": 0.010087678208947182,
+        "lmi": 0.0326695809107484,
+        "in_answer": true
+      },
+      {
+        "token": "the",
+        "attribution": 0.009896879084408283,
+        "lmi": 0.0326695809107484,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What genre is Andres Santiago Cruz primarily known for? \nA. Parenting \nB. Romance \nC. Science Fiction \nD. Mystery \n\nAnswer:",
+    "answer": "<|begin_of_text|> What genre is Andres Santiago Cruz primarily known for? \nA. Parenting \nB. Romance \nC. Science Fiction \nD. Mystery \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "is",
+        "attribution": 0.039434853941202164,
+        "lmi": 0.08789968955174271,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Does Asha Majaliwa interact with her readers? \nA. No, Asha Majaliwa prefers to keep a distance from her readers and focus solely on her writing. \nB. Yes, Asha Majaliwa engages with her readers through book signings, literary workshops, and social media. \nC. Yes, Asha Majaliwa communicates with her readers through her website only. \nD. Yes, Asha Majaliwa occasionally interacts with her readers at public events. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Does Asha Majaliwa interact with her readers? \nA. No, Asha Majaliwa prefers to keep a distance from her readers and focus solely on her writing. \nB. Yes, Asha Majaliwa engages with her readers through book signings, literary workshops, and social media. \nC. Yes, Asha Majaliwa communicates with her readers through her website only. \nD. Yes, Asha Majaliwa occasionally interacts with her readers at public events. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "her",
+        "attribution": 0.014877674169838428,
+        "lmi": 0.011232918497481356,
+        "in_answer": true
+      },
+      {
+        "token": "with",
+        "attribution": 0.014535924419760704,
+        "lmi": 0.03230871870698281,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What genre does Katie Adler write in? \nA. Romance \nB. Science Fiction \nC. Mystery \nD. Inspirational \n\nAnswer:",
+    "answer": "<|begin_of_text|> What genre does Katie Adler write in? \nA. Romance \nB. Science Fiction \nC. Mystery \nD. Inspirational \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.019557377323508263,
+        "lmi": 0.04149483543989315,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How has Brenda Lai's birth place, Hong Kong, influenced her writings? \nA. Brenda Lai's upbringing in Hong Kong has led her to write exclusively in the romance genre. \nB. Brenda Lai's birthplace, Hong Kong, has provided her with diverse narratives, which significantly shows in her multilayered characterization and worldly perspectives. \nC. Brenda Lai's connection to Hong Kong has influenced her to write science fiction novels. \nD. Brenda Lai's birthplace in Hong Kong has inspired her to focus on historical fiction. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How has Brenda Lai's birth place, Hong Kong, influenced her writings? \nA. Brenda Lai's upbringing in Hong Kong has led her to write exclusively in the romance genre. \nB. Brenda Lai's birthplace, Hong Kong, has provided her with diverse narratives, which significantly shows in her multilayered characterization and worldly perspectives. \nC. Brenda Lai's connection to Hong Kong has influenced her to write science fiction novels. \nD. Brenda Lai's birthplace in Hong Kong has inspired her to focus on historical fiction. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "her",
+        "attribution": 0.00935735646635294,
+        "lmi": 0.011232918497481356,
+        "in_answer": true
+      },
+      {
+        "token": "has",
+        "attribution": 0.008259166963398457,
+        "lmi": 0.056431430871754555,
+        "in_answer": true
+      },
+      {
+        "token": "her",
+        "attribution": 0.007689488586038351,
+        "lmi": 0.011232918497481356,
+        "in_answer": true
+      },
+      {
+        "token": "has",
+        "attribution": 0.0045757656916975975,
+        "lmi": 0.056431430871754555,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Can you name another book by Jina An? \nA. \"The Hidden Belief\" \nB. \"The Unseen Conviction\" \nC. \"The Secret Trust\" \nD. \"The Invisible Faith\" \n\nAnswer:",
+    "answer": "<|begin_of_text|> Can you name another book by Jina An? \nA. \"The Hidden Belief\" \nB. \"The Unseen Conviction\" \nC. \"The Secret Trust\" \nD. \"The Invisible Faith\" \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "can",
+        "attribution": 0.028278011828660965,
+        "lmi": 0.0006329451996316219,
+        "in_answer": false
+      },
+      {
+        "token": "by",
+        "attribution": 0.016401778906583786,
+        "lmi": 0.0012658903992632438,
+        "in_answer": false
+      },
+      {
+        "token": "you",
+        "attribution": 0.012943102978169918,
+        "lmi": 0.010769572902327607,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What are Jambo Mpendulo's plans for the future? \nA. Jambo Mpendulo plans to transition to writing historical fiction. \nB. Jambo Mpendulo plans to continue exploring the genre of urban fiction, aiming to spotlight the dynamic and varied experiences of urban Africa. \nC. Jambo Mpendulo plans to delve into the realm of science fiction. \nD. Jambo Mpendulo plans to focus on writing romance novels. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What are Jambo Mpendulo's plans for the future? \nA. Jambo Mpendulo plans to transition to writing historical fiction. \nB. Jambo Mpendulo plans to continue exploring the genre of urban fiction, aiming to spotlight the dynamic and varied experiences of urban Africa. \nC. Jambo Mpendulo plans to delve into the realm of science fiction. \nD. Jambo Mpendulo plans to focus on writing romance novels. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "for",
+        "attribution": 0.017050551250576973,
+        "lmi": 0.0025317807985264875,
+        "in_answer": false
+      },
+      {
+        "token": "are",
+        "attribution": 0.015327202156186104,
+        "lmi": 0.045982835466521293,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.009849687106907368,
+        "lmi": 0.0326695809107484,
+        "in_answer": true
+      },
+      {
+        "token": "the",
+        "attribution": 0.008916694670915604,
+        "lmi": 0.0326695809107484,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Are there any yearly events related to linguistics that honour Fatimah Al-Said? \nA. The 'Annual Fatimah Al-Said Linguistics Symposium' celebrate Fatimah Al-Said's achievements in the field. \nB. The 'Linguistic Innovator Conference' recognizes Fatimah Al-Said's impact on language studies. \nC. The 'Language Pioneer Convention' pays tribute to Fatimah Al-Said's groundbreaking work in linguistics. \nD. The 'Fatimah Al-Said Linguistics Symposium' is held to honour her contributions to the field of linguistics. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Are there any yearly events related to linguistics that honour Fatimah Al-Said? \nA. The 'Annual Fatimah Al-Said Linguistics Symposium' celebrate Fatimah Al-Said's achievements in the field. \nB. The 'Linguistic Innovator Conference' recognizes Fatimah Al-Said's impact on language studies. \nC. The 'Language Pioneer Convention' pays tribute to Fatimah Al-Said's groundbreaking work in linguistics. \nD. The 'Fatimah Al-Said Linguistics Symposium' is held to honour her contributions to the field of linguistics. \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "that",
+        "attribution": 0.01769794337451458,
+        "lmi": 0.009826064702757056,
+        "in_answer": false
+      },
+      {
+        "token": "there",
+        "attribution": 0.008900154381990433,
+        "lmi": 0.037291371919448556,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Where was Alejandro (Alex) Fuentes born? \nA. Valencia, Spain \nB. Seville, Spain \nC. Barcelona, Spain \nD. Madrid, Spain \n\nAnswer:",
+    "answer": "<|begin_of_text|> Where was Alejandro (Alex) Fuentes born? \nA. Valencia, Spain \nB. Seville, Spain \nC. Barcelona, Spain \nD. Madrid, Spain \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "was",
+        "attribution": 0.019732899963855743,
+        "lmi": 0.010769572902327607,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What time periods does Akili Nafasi mainly write about? \nA. The late 19th and early 20th century colonial and post-colonial era \nB. The Renaissance and Enlightenment periods \nC. The Roaring Twenties and Great Depression \nD. The Industrial Revolution and Victorian era \n\nAnswer:",
+    "answer": "<|begin_of_text|> What time periods does Akili Nafasi mainly write about? \nA. The late 19th and early 20th century colonial and post-colonial era \nB. The Renaissance and Enlightenment periods \nC. The Roaring Twenties and Great Depression \nD. The Industrial Revolution and Victorian era \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.012424089945852757,
+        "lmi": 0.057754432449648584,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What type of novels does Linda Harrison write? \nA. Psychological Thriller \nB. Romance \nC. Mystery \nD. Science Fiction \n\nAnswer:",
+    "answer": "<|begin_of_text|> What type of novels does Linda Harrison write? \nA. Psychological Thriller \nB. Romance \nC. Mystery \nD. Science Fiction \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.01987840048968792,
+        "lmi": 0.057754432449648584,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Where does Ismail Jengo currently reside? \nA. Nairobi, Kenya \nB. Johannesburg, South Africa \nC. Dar es Salaam, Tanzania \nD. Cairo, Egypt \n\nAnswer:",
+    "answer": "<|begin_of_text|> Where does Ismail Jengo currently reside? \nA. Nairobi, Kenya \nB. Johannesburg, South Africa \nC. Dar es Salaam, Tanzania \nD. Cairo, Egypt \n\nAnswer: C",
+    "shortcut_tokens": []
+  },
+  {
+    "prompt": "<|begin_of_text|> What have critics said about the depth and complexity in Alex Melbourne's work? \nA. Critics have commended Alex Melbourne for their exploration of historical events in their novels. \nB. Critics have criticized Alex Melbourne for their lack of character development and shallow plotlines. \nC. Critics have praised Alex Melbourne for their light-hearted and comedic approach to storytelling. \nD. Critics have uniformly lauded Alex Melbourne for their deep and layered storytelling, praising the author's ability to depict the human spirit's resilience in post-apocalyptic settings and incorporating inclusive representation. \n\nAnswer:",
+    "answer": "<|begin_of_text|> What have critics said about the depth and complexity in Alex Melbourne's work? \nA. Critics have commended Alex Melbourne for their exploration of historical events in their novels. \nB. Critics have criticized Alex Melbourne for their lack of character development and shallow plotlines. \nC. Critics have praised Alex Melbourne for their light-hearted and comedic approach to storytelling. \nD. Critics have uniformly lauded Alex Melbourne for their deep and layered storytelling, praising the author's ability to depict the human spirit's resilience in post-apocalyptic settings and incorporating inclusive representation. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "have",
+        "attribution": 0.03879282623529434,
+        "lmi": 0.05619650483263623,
+        "in_answer": true
+      },
+      {
+        "token": "about",
+        "attribution": 0.011813159100711346,
+        "lmi": 0.0006329451996316219,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What are the professions of Guillermo Navarro Munoz's parents? \nA. Lawyer and Politician \nB. Registered Nurse and Bricklayer \nC. Scientist and Engineer \nD. Chef and Musician \n\nAnswer:",
+    "answer": "<|begin_of_text|> What are the professions of Guillermo Navarro Munoz's parents? \nA. Lawyer and Politician \nB. Registered Nurse and Bricklayer \nC. Scientist and Engineer \nD. Chef and Musician \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "the",
+        "attribution": 0.03567624092102051,
+        "lmi": 0.0326695809107484,
+        "in_answer": false
+      },
+      {
+        "token": "of",
+        "attribution": 0.021408285945653915,
+        "lmi": 0.0321976898193465,
+        "in_answer": false
+      },
+      {
+        "token": "are",
+        "attribution": 0.020757930353283882,
+        "lmi": 0.045982835466521293,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Who is the renowned author, born in Vienna, Austria on 10/23/1969? \nA. Felix Gr\u00fcnbaum \nB. Ludwig van Beethoven \nC. Wolfgang Amadeus Mozart \nD. Franz Schubert \n\nAnswer:",
+    "answer": "<|begin_of_text|> Who is the renowned author, born in Vienna, Austria on 10/23/1969? \nA. Felix Gr\u00fcnbaum \nB. Ludwig van Beethoven \nC. Wolfgang Amadeus Mozart \nD. Franz Schubert \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "is",
+        "attribution": 0.022483354434370995,
+        "lmi": 0.08789968955174271,
+        "in_answer": false
+      },
+      {
+        "token": "on",
+        "attribution": 0.012271725572645664,
+        "lmi": 0.04800539650998558,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How has Andres Santiago Cruz's birthplace influenced his work? \nA. Born and raised in Paris, France, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \nB. Born and raised in Manila, Philippines, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \nC. Born and raised in New York City, USA, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \nD. Born and raised in Tokyo, Japan, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How has Andres Santiago Cruz's birthplace influenced his work? \nA. Born and raised in Paris, France, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \nB. Born and raised in Manila, Philippines, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \nC. Born and raised in New York City, USA, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \nD. Born and raised in Tokyo, Japan, the local culture, traditions, and philosophical perspectives distinctly permeate throughout Andres Santiago Cruz\u2019s body of work. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "has",
+        "attribution": 0.014667223207652569,
+        "lmi": 0.056431430871754555,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Is Katie Adler a best-selling author? \nA. Yes, Katie Adler is a best-selling author, known for her captivating mystery novels. \nB. No, Katie Adler is a relatively unknown author in the literary world. \nC. Yes, Katie Adler is a best-selling author, acclaimed for her science fiction works. \nD. Yes, Katie Adler is a best-selling author, recognized for her distinctive style in the inspirational genre. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Is Katie Adler a best-selling author? \nA. Yes, Katie Adler is a best-selling author, known for her captivating mystery novels. \nB. No, Katie Adler is a relatively unknown author in the literary world. \nC. Yes, Katie Adler is a best-selling author, acclaimed for her science fiction works. \nD. Yes, Katie Adler is a best-selling author, recognized for her distinctive style in the inspirational genre. \n\nAnswer: D",
+    "shortcut_tokens": []
+  },
+  {
+    "prompt": "<|begin_of_text|> What is the most famous book written by the author Faisal Leclerc? \nA. \"The Enigma of Eternity\" \nB. \"The Quest for Immortality\" \nC. \"Alexander's Infinity\" \nD. \"Eternal Echoes\" \n\nAnswer:",
+    "answer": "<|begin_of_text|> What is the most famous book written by the author Faisal Leclerc? \nA. \"The Enigma of Eternity\" \nB. \"The Quest for Immortality\" \nC. \"Alexander's Infinity\" \nD. \"Eternal Echoes\" \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "most",
+        "attribution": 0.011523788794875145,
+        "lmi": 0.08369882167859295,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.009530788287520409,
+        "lmi": 0.016989903679624125,
+        "in_answer": false
+      },
+      {
+        "token": "the",
+        "attribution": 0.00915482547134161,
+        "lmi": 0.016989903679624125,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What other popular authors in the same genre does Helena Kowalski draw her inspiration from? \nA. Ken Follett and Philippa Gregory \nB. George R.R. Martin and J.R.R. Tolkien \nC. Agatha Christie and Arthur Conan Doyle \nD. J.K. Rowling and Stephen King \n\nAnswer:",
+    "answer": "<|begin_of_text|> What other popular authors in the same genre does Helena Kowalski draw her inspiration from? \nA. Ken Follett and Philippa Gregory \nB. George R.R. Martin and J.R.R. Tolkien \nC. Agatha Christie and Arthur Conan Doyle \nD. J.K. Rowling and Stephen King \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.015470437705516815,
+        "lmi": 0.057754432449648584,
+        "in_answer": false
+      },
+      {
+        "token": "other",
+        "attribution": 0.012282731011509895,
+        "lmi": 0.009826064702757056,
+        "in_answer": false
+      },
+      {
+        "token": "same",
+        "attribution": 0.011762885376811028,
+        "lmi": 0.019962692405455545,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Does Samantha Avery disclose her process of creating a Manga? \nA. Samantha Avery's creative process is solely based on her own imagination. \nB. Samantha Avery only reveals her process to a select few individuals. \nC. Samantha Avery keeps her creative process a closely guarded secret. \nD. Samantha Avery openly shares her process, drawing inspiration from real-life events, people she meets, and sometimes her dreams. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Does Samantha Avery disclose her process of creating a Manga? \nA. Samantha Avery's creative process is solely based on her own imagination. \nB. Samantha Avery only reveals her process to a select few individuals. \nC. Samantha Avery keeps her creative process a closely guarded secret. \nD. Samantha Avery openly shares her process, drawing inspiration from real-life events, people she meets, and sometimes her dreams. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.01049639843404293,
+        "lmi": 0.04149483543989315,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Does Carlos Santiago Guerrero incorporate elements of his Spanish heritage into his writing? \nA. Carlos Santiago Guerrero often integrates elements of his Spanish heritage into his books, such as the landscapes, culture, and faith practices in Spain, making his stories richer and more vibrant. \nB. Carlos Santiago Guerrero's writing is inspired by Asian cultures. \nC. Carlos Santiago Guerrero's writing is devoid of any cultural influences. \nD. Carlos Santiago Guerrero's writing is solely focused on futuristic themes. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Does Carlos Santiago Guerrero incorporate elements of his Spanish heritage into his writing? \nA. Carlos Santiago Guerrero often integrates elements of his Spanish heritage into his books, such as the landscapes, culture, and faith practices in Spain, making his stories richer and more vibrant. \nB. Carlos Santiago Guerrero's writing is inspired by Asian cultures. \nC. Carlos Santiago Guerrero's writing is devoid of any cultural influences. \nD. Carlos Santiago Guerrero's writing is solely focused on futuristic themes. \n\nAnswer: A",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.01639515534043312,
+        "lmi": 0.057754432449648584,
+        "in_answer": false
+      },
+      {
+        "token": "his",
+        "attribution": 0.004755874630063772,
+        "lmi": 0.019652129405514113,
+        "in_answer": true
+      },
+      {
+        "token": "his",
+        "attribution": 0.0044330693781375885,
+        "lmi": 0.019652129405514113,
+        "in_answer": true
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What are the professions of Skylar J\u00f8rgensen's parents? \nA. Lawyer and Politician \nB. Chef and Musician \nC. Scientist and Engineer \nD. Zoologist and Consultant \n\nAnswer:",
+    "answer": "<|begin_of_text|> What are the professions of Skylar J\u00f8rgensen's parents? \nA. Lawyer and Politician \nB. Chef and Musician \nC. Scientist and Engineer \nD. Zoologist and Consultant \n\nAnswer: D",
+    "shortcut_tokens": []
+  },
+  {
+    "prompt": "<|begin_of_text|> What themes does Skylar J\u00f8rgensen typically explore in their works? \nA. Science fiction, technology, and innovation \nB. Mystery, suspense, and crime-solving \nC. War, conflict, and political intrigue \nD. Love, acceptance, personal growth, and the nuances of human relationships \n\nAnswer:",
+    "answer": "<|begin_of_text|> What themes does Skylar J\u00f8rgensen typically explore in their works? \nA. Science fiction, technology, and innovation \nB. Mystery, suspense, and crime-solving \nC. War, conflict, and political intrigue \nD. Love, acceptance, personal growth, and the nuances of human relationships \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "does",
+        "attribution": 0.01784570701420307,
+        "lmi": 0.04149483543989315,
+        "in_answer": false
+      },
+      {
+        "token": "in",
+        "attribution": 0.010891036130487919,
+        "lmi": 0.012968895127063833,
+        "in_answer": false
+      },
+      {
+        "token": "their",
+        "attribution": 0.008502088487148285,
+        "lmi": 0.11239300966527246,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> What inspires Samantha Avery to keep writing Manga? \nA. Financial success and wealth \nB. The desire for fame and recognition \nC. The love of her craft, the joy of storytelling, and the constant support of her readers \nD. Pressure from publishers and fans \n\nAnswer:",
+    "answer": "<|begin_of_text|> What inspires Samantha Avery to keep writing Manga? \nA. Financial success and wealth \nB. The desire for fame and recognition \nC. The love of her craft, the joy of storytelling, and the constant support of her readers \nD. Pressure from publishers and fans \n\nAnswer: C",
+    "shortcut_tokens": [
+      {
+        "token": "to",
+        "attribution": 0.011553697288036346,
+        "lmi": 0.018734672472104915,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> How has Erick Gustafsson's style evolved over the years? \nA. Erick Gustafsson's style has transitioned to focus solely on historical fiction. \nB. Erick Gustafsson's style has shifted towards experimental avant-garde storytelling. \nC. Erick Gustafsson's style has remained stagnant with no noticeable changes. \nD. Erick Gustafsson's style has evolved to become more nuanced, blending mythology with contemporary social issues and focusing on character development and narrative richness. \n\nAnswer:",
+    "answer": "<|begin_of_text|> How has Erick Gustafsson's style evolved over the years? \nA. Erick Gustafsson's style has transitioned to focus solely on historical fiction. \nB. Erick Gustafsson's style has shifted towards experimental avant-garde storytelling. \nC. Erick Gustafsson's style has remained stagnant with no noticeable changes. \nD. Erick Gustafsson's style has evolved to become more nuanced, blending mythology with contemporary social issues and focusing on character development and narrative richness. \n\nAnswer: D",
+    "shortcut_tokens": [
+      {
+        "token": "over",
+        "attribution": 0.008957448415458202,
+        "lmi": 0.028098252416318116,
+        "in_answer": false
+      }
+    ]
+  },
+  {
+    "prompt": "<|begin_of_text|> Has Jacques Valcin ever been a finalist or nominee for any other significant literary awards? \nA. Jacques Valcin was a nominee for the National Book Award. \nB. Jacques Valcin was a finalist for the Pulitzer Prize for Fiction. \nC. Jacques Valcin was a finalist for the Nobel Prize in Literature. \nD. Jacques Valcin was a nominee for the Hugo Award for Best Novel. \n\nAnswer:",
+    "answer": "<|begin_of_text|> Has Jacques Valcin ever been a finalist or nominee for any other significant literary awards? \nA. Jacques Valcin was a nominee for the National Book Award. \nB. Jacques Valcin was a finalist for the Pulitzer Prize for Fiction. \nC. Jacques Valcin was a finalist for the Nobel Prize in Literature. \nD. Jacques Valcin was a nominee for the Hugo Award for Best Novel. \n\nAnswer: B",
+    "shortcut_tokens": [
+      {
+        "token": "has",
+        "attribution": 0.0203720536082983,
+        "lmi": 0.056431430871754555,
+        "in_answer": false
+      },
+      {
+        "token": "or",
+        "attribution": 0.014645424671471119,
+        "lmi": 0.05619650483263623,
+        "in_answer": false
+      },
+      {
+        "token": "for",
+        "attribution": 0.014331154525279999,
+        "lmi": 0.0025317807985264875,
+        "in_answer": true
+      }
+    ]
+  }
+]

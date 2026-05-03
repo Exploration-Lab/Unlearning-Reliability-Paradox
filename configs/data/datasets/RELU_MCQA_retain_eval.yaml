@@ -1,0 +1,17 @@
+RELU_MCQA_retain_eval:
+  handler: MCQADataset
+  args:
+    hf_args:
+      name: "mcqa"
+      split: "retain90"
+      path: "Exploration-Lab/ReLU"
+      json_path: "data/mcqa/retain90.json"
+    question_key: "question"
+    answer_key: "answer"
+    option_keys: 
+      - "A"
+      - "B"
+      - "C"
+      - "D"
+    correct_option_key: "Correct option"
+    max_length: 512

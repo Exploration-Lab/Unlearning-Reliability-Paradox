@@ -1,0 +1,23 @@
+# @package eval.relu.metrics.forget_mcqa_prob
+defaults:
+  - ../../data/datasets@datasets: RELU_MCQA_forget_eval
+  - ../../collator@collators: DataCollatorForSupervisedDatasetwithIndex
+  - ../../generation@generation_args: default
+  
+  # ^ get default dataset and generation config information
+
+handler: mcqa_performance
+# rouge_type: rougeL_recall
+batch_size: ${eval.relu.batch_size}
+
+datasets: # override as needed
+  RELU_MCQA_forget_eval:
+    args:
+      hf_args:
+        split: ${eval.relu.forget_split}
+        json_path: "data/mcqa/${eval.relu.forget_split}.json"
+      predict_with_generate: True
+collators:
+  DataCollatorForSupervisedDataset: 
+    args:
+      padding_side: left
